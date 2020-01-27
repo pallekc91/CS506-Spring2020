@@ -1,3 +1,13 @@
 def draw_lake():
-    print("lake not found")
+    print("Lake Frozen")
+    print("  --------      ")
+    print(" /     r  \\")
+    print("|          \\")
+    print("|    / \\    \\")
+    print("|   | B |     ------")
+    print("\\    \\ /           /")
+    print(" \\       r        /")
+    print("  \\              |")
+    print("   -------  ------")
+    print("          \\/")
     return
